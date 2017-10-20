@@ -1,0 +1,36 @@
+.diamond {
+  /*background-color: #FBFBFB;*/
+  background-color: yellow;
+  color: #727272;
+  height: 150px;
+  width: 200px;
+  display: inline-block;
+  text-align: center;
+  padding: 100px 10px 30px 10px;
+  box-sizing: content-box;
+
+
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.icon {
+font-size: 40px;
+margin-top: 500px;
+}
+
+.one{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.two{
+  font-size: 10px;
+}
+
+.three{
+  font-size: 15px;
+}
